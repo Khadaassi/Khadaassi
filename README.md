@@ -7,37 +7,30 @@
 
 ## About me
 
+
 <p>
-    As a new programming enthusiast, I'm eager to be part of unique challenge !
-</p>
-<p>
-    My career path is far from conventional...
-    <br>
-    From fast food industry to customer service manager for Internet provider.
-    <br>
-    From technical expert at Apple to logistics operations coordinator at Tesla.
-    <br>
-    All my career was about learning and facing new challenges in fast pace environments !
-</p>
-<p>
-    It's time for me to take a leap of faith and writing a new chapter.
-    <br>
-    Becoming a software engineer ;)
-</p>
-<p>
-    Thanks to <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a>, I have built a strong foundation starting with the C language and progressing to Python.
+    <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a>,has helped me build a strong foundation starting with the C language and progressing to Python.
     <br><br>
-    Currently, I'm interning at Holberton School as a software engineer after completing my first year.
-    <br>
-    For my second year, I'll be working as an employee of Holberton School while simultaneously pursuing my specialization, likely in machine learning.
-    <br><br>
-     I'm immensely grateful to Holberton and its teams for entrusting me with the opportunity to work alongside them and contribute to the development of students' technical skills.
+
+I am a dedicated student transitioning into the exciting field of software engineering. Currently studying web development at Holberton School, I am learning a variety of languages and tools such as C, Python, HTML, CSS, JavaScript, Docker, VSCode, and more.
+
+In addition to my foundational studies, I am looking forward to pursuing a specialization in Data/AI development next year.
 </p>
-<p>
-    My unique path underlines my determination to push boundaries and explore new horizons.
-</p>
-<p>
-    Let's talk about how can I bring my multicultural background and passion to our exciting projects !
+
+#### My Journey So Far
+
+My career path is quite unconventional. After completing my studies in English Language, Literature, and Civilization (LLCER), I dedicated several years to being a stay-at-home mom. This period taught me invaluable skills such as multitasking, organization, and resilience, which I now bring to my journey in tech.
+
+In October 2023, I took a leap of faith and began my studies at <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> to start a new career in technology. This experience has allowed me to build a strong foundation, particularly with the C language and Python.
+
+#### Future Ambitions
+
+ I am thrilled to share that I will be furthering my education at <a href="https://simplon.co/formation/ecole-ia-microsoft/23" target="_blank">Simplon's Microsoft AI School</a> starting in October 2024. This exciting opportunity will allow me to specialize in machine learning and AI development, opening new doors for innovation and professional growth.
+
+#### What Drives Me
+
+My diverse background underscores my determination to push boundaries and explore new horizons. I am immensely grateful to Holberton School and its amazing team for the support and opportunities they have provided me. I am excited to use my multicultural background and passion for technology to contribute to innovative projects and make a significant impact in the tech world.
+
 </p>
 
 ## Tech stack
@@ -72,7 +65,7 @@
 
 </p>
 
-## 📈 Statistics
+## Statistics
 
 <br>
 <p align="center">
