@@ -1,7 +1,9 @@
 
+<h1 align="center">Hi there! I'm Khadija👋</h1>
 
 <img src="https://i.imgur.com/ImgMbNV.gif" alt="welcome to my github" width="100%">
-<p style="padding: 20px; font-size: 16px">Student in career transition studying web development at <a href="https://www.holbertonschool.fr/"><b>Holberton School</b></a> in Lille, France.<br>Learning languages such as <b>C</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and tools like <b>Docker</b>, <b>VSCode</b>, and more.<br>Planning to pursue a specialization in <b>Data/ AI</b> development..</p>
+<p style="padding: 20px; font-size: 16px">
+
 
 
 
