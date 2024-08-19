@@ -11,10 +11,9 @@
 
 
 <p>
-    <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a>,has helped me build a strong foundation starting with the C language and progressing to Python.
-    <br><br>
 
-I am a dedicated student transitioning into the exciting field of software engineering. Currently studying web development at Holberton School, I am learning a variety of languages and tools such as C, Python, HTML, CSS, JavaScript, Docker, VSCode, and more.
+
+I am an enthusiastic student with a strong foundation in programming and web development. My education at Holberton School, where I studied languages and tools such as C, Python, HTML, CSS, JavaScript, Docker, and VSCode, has provided me with a diverse and solid technical skill set.
 
 In addition to my foundational studies, I am looking forward to pursuing a specialization in Data/AI development next year.
 </p>
@@ -23,7 +22,7 @@ In addition to my foundational studies, I am looking forward to pursuing a speci
 
 My career path is quite unconventional. After completing my studies in English Language, Literature, and Civilization (LLCER), I dedicated several years to being a stay-at-home mom. This period taught me invaluable skills such as multitasking, organization, and resilience, which I now bring to my journey in tech.
 
-In October 2023, I took a leap of faith and began my studies at <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> to start a new career in technology. This experience has allowed me to build a strong foundation, particularly with the C language and Python.
+In October 2023, I took a leap of faith and began my studies at <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> to start a new career in technology. This experience has allowed me to build a strong foundation, particularly with Python.
 
 #### Future Ambitions
 
