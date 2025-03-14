@@ -47,11 +47,9 @@ My diverse background underscores my determination to push boundaries and explor
 <p align="center">
     <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
     <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
-    <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
-    <img src="https://img.shields.io/badge/VS CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
     <img src="https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker badge">
-    <img src="https://img.shields.io/badge/DJANGO-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">
-
+    <img src="https://img.shields.io/badge/VS CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&style=for-the-badge" alt="Jira">
 </p>
 
 <br>
@@ -63,7 +61,10 @@ My diverse background underscores my determination to push boundaries and explor
     <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge">
     <img src="https://img.shields.io/badge/SHELL-000000?logo=powershell&logoColor=white&style=for-the-badge" alt="Shell badge">
     <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL badge">
-
+    <img src="https://img.shields.io/badge/DJANGO-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postma&logoColor=white&style=for-the-badge" alt="Postman">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
 </p>
 
 ## Statistics
