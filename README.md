@@ -34,38 +34,21 @@ My diverse background underscores my determination to push boundaries and explor
 
 </p>
 
-## Tech stack
+##  Tech Stack
 
-<br>
-<p align="center">
-    <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple badge">
-    <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge">
-    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge"> 
-</p>
+| **Category**                      | **Technologies** |
+|------------------------------------|-----------------|
+| **Operating Systems**              | ![Apple](https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge) ![Windows](https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge) |
+| **DevOps & CI/CD**                 | ![Git](https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
+| **Programming Languages & Libraries** | ![Python](https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge) |
+| **Machine Learning & AI Frameworks** | ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) |
+| **Big Data & Data Engineering**    | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge) ![Azure Data Lake](https://img.shields.io/badge/AzureDataLake-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge) |
+| **Cloud Platforms & Services**     | ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge) ![Azure Certifications](https://img.shields.io/badge/AZ900_&_AI900_Certified-0089D6?logo=microsoft&logoColor=white&style=for-the-badge) |
+| **Web Development & APIs**         | ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge) ![Django](https://img.shields.io/badge/DJANGO-092E20?logo=django&logoColor=white&style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Databases & ORMs**               | ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Data Scraping & Automation**      | ![Scrapy](https://img.shields.io/badge/Scrapy-88CCFF?logo=scrapy&logoColor=black&style=for-the-badge) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white&style=for-the-badge) |
+| **Agile Methodologies & Tools**     | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=for-the-badge) ![Kanban](https://img.shields.io/badge/Kanban-0079BF?logo=trello&logoColor=white&style=for-the-badge) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge) |
 
-<br>
-<p align="center">
-    <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
-    <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
-    <img src="https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker badge">
-    <img src="https://img.shields.io/badge/VS CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&style=for-the-badge" alt="Jira">
-</p>
-
-<br>
-<p align="center">
-    <img src="https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=black&style=for-the-badge" alt="C badge">
-    <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
-    <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
-    <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
-    <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge">
-    <img src="https://img.shields.io/badge/SHELL-000000?logo=powershell&logoColor=white&style=for-the-badge" alt="Shell badge">
-    <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL badge">
-    <img src="https://img.shields.io/badge/DJANGO-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postma&logoColor=white&style=for-the-badge" alt="Postman">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
-</p>
 
 ## Statistics
 
