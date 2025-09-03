@@ -15,22 +15,26 @@
 
 I am an enthusiastic student with a strong foundation in programming and web development. My education at Holberton School, where I studied languages and tools such as C, Python, HTML, CSS, JavaScript, Docker, and VSCode, has provided me with a diverse and solid technical skill set.
 
-In addition to my foundational studies, I am looking forward to pursuing a specialization in Data/AI development next year.
+I am currently gaining practical experience as a Data Analyst Apprentice at Decathlon, where I'm applying my skills to real-world projects.
 </p>
 
 #### My Journey So Far
 
-My career path is quite unconventional. After completing my studies in English Language, Literature, and Civilization (LLCER), I dedicated several years to being a stay-at-home mom. This period taught me invaluable skills such as multitasking, organization, and resilience, which I now bring to my journey in tech.
+My career path is quite unconventional, but it’s a journey I'm proud of. After studying English Literature, I dedicated several years to homeschooling my children, This period taught me invaluable skills such as multitasking, organization, and resilience, which I now bring to my journey in tech.
 
-In October 2023, I took a leap of faith and began my studies at <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> to start a new career in technology. This experience has allowed me to build a strong foundation, particularly with Python.
+In October 2023, I took a leap of faith and began my studies at <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> to start a new career in technology, where I built a strong foundation in core programming languages particularly with Python.
+
+In October 2024, I furthered my education at <a href="https://simplon.co/formation/ecole-ia-microsoft/23" target="_blank">Simplon's Microsoft AI School</a>. This exciting opportunity allowed me to specialize in Data and AI development, opening new doors for professional growth.
+
+September 2025 marks a new chapter as I joined Decathlon as a Data Analyst Apprentice. This role allows me to apply my academic knowledge to real-world projects and grow as a professional.
 
 #### Future Ambitions
 
- I am thrilled to share that I will be furthering my education at <a href="https://simplon.co/formation/ecole-ia-microsoft/23" target="_blank">Simplon's Microsoft AI School</a> starting in October 2024. This exciting opportunity will allow me to specialize in machine learning and AI development, opening new doors for innovation and professional growth.
+I am committed to a lifelong journey of learning and growth in the tech industry. As I continue my training at Simplon's Microsoft AI School and my apprenticeship at Decathlon, I aim to expand my knowledge in data and AI. My goal is to work on projects that have a meaningful impact and to collaborate with passionate professionals who challenge me to grow.
 
 #### What Drives Me
 
-My diverse background underscores my determination to push boundaries and explore new horizons. I am immensely grateful to Holberton School and its amazing team for the support and opportunities they have provided me. I am excited to use my multicultural background and passion for technology to contribute to innovative projects and make a significant impact in the tech world.
+My unconventional path has taught me that the most valuable skills are not always taught in a classroom. The resilience and adaptability I gained from homeschooling and my background in literature are what truly fuel my passion for tech. I am driven by the challenge of turning complex data into clear, actionable insights and am excited to bring my unique blend of human understanding and technical expertise to future projects.
 
 </p>
 
@@ -66,7 +70,6 @@ My diverse background underscores my determination to push boundaries and explor
   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>  
 </div>
-
 
 
 ##
