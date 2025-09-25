@@ -26,7 +26,7 @@ In October 2023, I took a leap of faith and began my studies at <a href="https:/
 
 In October 2024, I furthered my education at <a href="https://simplon.co/formation/ecole-ia-microsoft/23" target="_blank">Simplon's Microsoft AI School</a>. This exciting opportunity allowed me to specialize in Data and AI development, opening new doors for professional growth.
 
-September 2025 marks a new chapter as I joined Decathlon as a Data Analyst Apprentice. This role allows me to apply my academic knowledge to real-world projects and grow as a professional.
+September 2025 marks a new chapter as I joined <a href="https://digital.decathlon.net/" target="_blank">Decathlon</a> as a Data Analyst Apprentice. This role allows me to apply my academic knowledge to real-world projects and grow as a professional.
 
 #### Future Ambitions
 
